@@ -1,5 +1,5 @@
 <div align="center">
-<h2> ?????????? ??????????, ???????????? <????????????????????/>! </h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
 </div>
 </br>
 <div align="center">
@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://luoqianyi.top"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-luoqianyi.top-blue"/></a>
  <a href="https://github.com/luoqianyi"><img src="https://img.shields.io/github/followers/luoqianyi?label=Github&style=social"/></a>
-  <a href="https://gitee.com/luoqianyi"><img src="https://img.shields.io/badge/-码�?-EA4335?style=flat-square&logo=Gitee&logoColor=white"/></a>
+  <a href="https://gitee.com/luoqianyi"><img src="https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white"/></a>
   <a href="https://blog.csdn.net/qq_45743005"><img src="https://img.shields.io/badge/-CSDN-orange?style=flat-square&logo=C&logoColor=white"/></a>
   <a href="mailto:luoqianyi0819@gmail.com"><img src="https://img.shields.io/badge/gmail-luoqianyi0819@gmail.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luoqianyi0819@gmail.com"/></a>
 </p>
@@ -28,7 +28,7 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 </br>
 <hr>
 
-<h2 align="center">?? Languages & Frameworks & Tools & Abilities ??</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <br>
 
@@ -45,7 +45,7 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 </p>
 <hr>
 
-<h2 align="center">? Stats ?</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <br>
 
