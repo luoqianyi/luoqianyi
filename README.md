@@ -55,13 +55,13 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 
 <a href="https://github.com/luoqianyi/" title="Go to Source">
 
-<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=luoqianyi&theme=github-dark-blue&border=61dafb&hide_border=true" alt="luoqianyi" />
+<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=luoqianyi&theme=github-dark-blue" alt="luoqianyi" />
 
 </a>
 
 <a href="https://github.com/luoqianyi" title="Go to Source">
 
-<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=luoqianyi&show_icons=true&theme=github-dark-blue&border_color=61dafb&hide_border=true" />
+<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=luoqianyi&show_icons=true" />
 
 </a>
 
@@ -73,7 +73,7 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 
 <a href="https://github.com/luoqianyi">
 
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoqianyi&hide=hide=html,smarty,Roff,CSS,Tcl,SCSS&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoqianyi&hide=hide=html,smarty,Roff,CSS,Tcl,SCSS&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb" />
 
 </a>
 
@@ -82,5 +82,5 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 </p>
 <hr>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=luoqianyi&theme=github-dark-blue&bg_color=20232a&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=luoqianyi&theme=github-dark-blue&bg_color=20232a">
 </div>
