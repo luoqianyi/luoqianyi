@@ -1,130 +1,86 @@
 <div align="center">
-  <h1>👋 你好！我是洛千衣</h1>
-  <p><strong>💻 全栈开发者 | 🚀 技术爱好者 | 💡 问题求解者</strong></p>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
 </div>
+</br>
+<div align="center">
+<img  src="https://count.getloli.com/get/@luoqianyi"/>
+</div>
+</br>
+<p align="center">
+<a href="https://luoqianyi.top"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-luoqianyi.top-blue"/></a>
+ <a href="https://github.com/luoqianyi"><img src="https://img.shields.io/github/followers/luoqianyi?label=Github&style=social"/></a>
+  <a href="https://gitee.com/luoqianyi"><img src="https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white"/></a>
+  <a href="https://blog.csdn.net/qq_45743005"><img src="https://img.shields.io/badge/-CSDN-orange?style=flat-square&logo=C&logoColor=white"/></a>
+  <a href="mailto:luoqianyi0819@gmail.com"><img src="https://img.shields.io/badge/gmail-luoqianyi0819@gmail.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luoqianyi0819@gmail.com"/></a>
+</p>
+</br>
 
----
+<div align="center">
 
-## 📱 联系方式
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/luoqianyi/luoqianyi/issues/new"><b>here</b></a><br>
+or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
+
+</div>
+<i>Happy Coding!</i>
+
+</br>
+<hr>
+
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+
+<br>
 
 <p align="center">
-  <a href="https://github.com/luoqianyi"><strong>GitHub</strong></a> •
-  <a href="https://gitee.com/luoqianyi"><strong>Gitee</strong></a> •
-  <a href="https://blog.csdn.net/qq_45743005"><strong>CSDN</strong></a> •
-  <a href="https://luoqianyi.top"><strong>个人博客</strong></a> •
-  <a href="mailto:luoqianyi0819@gmail.com"><strong>📧 发邮件</strong></a>
+<code><img title="Java" height="25" src="images/java-original.svg"></code>
+<code><img title="GitHub" height="25" src="images/github.svg"></code>
+<code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+<code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+<code><img title="HTML5" height="25" src="images/html5.svg"></code>
+<code><img title="CSS" height="25" src="images/css.svg"></code>
+<code><img title="SASS" height="25" src="images/sass.svg"></code>
+<code><img title="Git" height="25" src="images/git-original.svg"></code>
+<code><img title="Python" height="25" src="images/python-original.svg"></code>
 </p>
+<hr>
 
----
+<h2 align="center">⚡ Stats ⚡</h2>
 
-## 👨‍💻 关于我
+<br>
 
-```
-🎯 用代码构建美好的东西
-🌱 永远在学习新技术  
-⚡ 热爱开源项目
-🤝 喜欢与优秀的开发者合作
-💬 有问题随时问我，我很乐意帮助！
-```
+<p align=center>
 
-**📍 所在地：** 中国  
-**🎓 专注方向：** Web开发、后端系统、云计算技术  
-**💬 语言：** 中文（母语）、英文（流利）
+<div align=center>
 
----
+<a href="https://github.com/luoqianyi/" title="Go to Source">
 
-## 🛠️ 技术栈
+<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=luoqianyi&theme=github-dark-blue" alt="luoqianyi" />
 
-### 🎨 前端开发
-- JavaScript / TypeScript
-- HTML5 / CSS3 / Sass
-- React / Vue.js
-- Webpack / Vite
+</a>
 
-### 🔧 后端开发
-- Java / Spring Boot
-- Python / Django
-- Node.js / Express
-- RESTful API 设计
+<a href="https://github.com/luoqianyi" title="Go to Source">
 
-### 💾 数据库 & 存储
-- MySQL / PostgreSQL
-- MongoDB
-- Redis
-- Elasticsearch
+<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=luoqianyi&show_icons=true" />
 
-### 🚀 开发工具 & DevOps
-- Git / GitHub
-- Docker / Docker Compose
-- Linux / Ubuntu
-- VS Code / IntelliJ IDEA
-
----
-
-## 📊 GitHub 数据统计
-
-### 主要统计数据
-
-![GitHub Stats](https://github-readme-stats-git-master-luoqianyi.vercel.app/api?username=luoqianyi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117)
-
-### 语言使用排行
-
-![Top Languages](https://github-readme-stats-git-master-luoqianyi.vercel.app/api/top-langs/?username=luoqianyi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
----
-
-## 🔥 提交活动统计
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luoqianyi&theme=tokyonight&hide_border=true&background=0D1117)
-
----
-
-## 🎯 项目展示
-
-| 项目名称 | 描述 | 技术栈 |
-|---------|------|--------|
-| 📱 项目 A | 全栈Web应用 | React + Node.js + MongoDB |
-| 🎨 项目 B | 响应式UI组件库 | Vue.js + CSS3 + Webpack |
-| 🚀 项目 C | 微服务后端API | Spring Boot + MySQL + Docker |
-
-*💡 更多项目请访问我的 [GitHub 仓库](https://github.com/luoqianyi?tab=repositories)*
-
----
-
-## 📈 开源贡献
-
-- ⭐ **30+** 个开源项目
-- 🔥 **1000+** 次提交
-- 🌟 积极参与开源社区
-
----
-
-## 💬 让我们连接
-
-<div align="center">
-
-**有趣的想法、项目合作、或者只是想聊天？**
-
-📧 **邮箱：** luoqianyi0819@gmail.com  
-🔗 **博客：** https://luoqianyi.top  
-💻 **GitHub：** https://github.com/luoqianyi
+</a>
 
 </div>
 
----
+<br><br><br><br><br><br><br><br><br>
 
-## 🙏 感谢支持
+<div align=center>
 
-<div align="center">
+<a href="https://github.com/luoqianyi">
 
-如果我的项目对你有帮助，请给我一个 ⭐ **Star**
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoqianyi&hide=hide=html,smarty,Roff,CSS,Tcl,SCSS&title_color=61dafb&text_color=ffffff&icon_color=61dafb" />
 
-你的支持是我继续开发和分享的动力！
+</a>
 
----
+</div>
 
-**Made with ❤️ by luoqianyi**
+</p>
+<hr>
 
-最后更新：2026年5月21日
-
+<img src="https://activity-graph.herokuapp.com/graph?username=luoqianyi&theme=github-dark-blue&bg_color=20232a">
 </div>
