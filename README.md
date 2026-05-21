@@ -49,22 +49,48 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 
 <br>
 
-<div align="center">
+<p align=center>
 
-### 📊 GitHub Statistics
+<div align=center>
 
-![luoqianyi's GitHub stats](https://img.shields.io/badge/GitHub%20Stats-View%20Profile-blue?style=flat-square&logo=github)
+<a href="https://github.com/luoqianyi/" title="Go to Source">
 
-- **Total Repositories**: Visit [my GitHub profile](https://github.com/luoqianyi?tab=repositories)
-- **GitHub Profile**: [@luoqianyi](https://github.com/luoqianyi)
+<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=luoqianyi&theme=radical&hide_border=true" alt="luoqianyi" />
 
-### 🌐 Connect with me
+</a>
 
-- [Personal Blog](https://luoqianyi.top)
-- [Gitee](https://gitee.com/luoqianyi)
-- [CSDN](https://blog.csdn.net/qq_45743005)
-- Email: luoqianyi0819@gmail.com
+<a href="https://github.com/luoqianyi" title="Go to Source">
+
+<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=luoqianyi&show_icons=true&theme=radical&hide_border=false&count_private=true" />
+
+</a>
+
+</div>
+
+<br><br><br><br><br><br><br><br><br>
+
+<div align=center>
+
+<a href="https://github.com/luoqianyi">
+
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoqianyi&layout=compact&theme=radical&hide_border=false" />
+
+</a>
+
+</div>
+
+</p>
+
+<div align=center>
+
+<a href="https://github.com/luoqianyi">
+
+<img width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luoqianyi&theme=radical" />
+
+</a>
 
 </div>
 
 <hr>
+
+</div>
