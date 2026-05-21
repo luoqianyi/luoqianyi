@@ -49,47 +49,22 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 
 <br>
 
-<p align=center>
+<div align="center">
 
-<div align=center>
-
-<a href="https://github.com/luoqianyi/" title="Go to Source">
-
-<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=luoqianyi&theme=radical&hide_border=true" alt="luoqianyi" />
-
-</a>
-
-<a href="https://github.com/luoqianyi" title="Go to Source">
-
-<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=luoqianyi&show_icons=true&theme=radical&hide_border=false&count_private=true" />
-
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luoqianyi&theme=radical" width="100%" alt="Profile Details" />
 
 </div>
 
-<br><br><br><br><br><br><br><br><br>
+<br>
 
-<div align=center>
+<div align="center">
 
-<a href="https://github.com/luoqianyi">
-
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoqianyi&layout=compact&theme=radical&hide_border=false" />
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=luoqianyi&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoqianyi&layout=compact&theme=radical" width="48%" alt="Top Languages" />
 
 </div>
 
-</p>
-
-<div align=center>
-
-<a href="https://github.com/luoqianyi">
-
-<img width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luoqianyi&theme=radical" />
-
-</a>
-
-</div>
+<br>
 
 <hr>
 
