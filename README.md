@@ -49,38 +49,22 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 
 <br>
 
-<p align=center>
+<div align="center">
 
-<div align=center>
+### 📊 GitHub Statistics
 
-<a href="https://github.com/luoqianyi/" title="Go to Source">
+![luoqianyi's GitHub stats](https://img.shields.io/badge/GitHub%20Stats-View%20Profile-blue?style=flat-square&logo=github)
 
-<img align="left" width=390 src="https://streak-stats.demolab.com?user=luoqianyi&theme=dark" alt="luoqianyi" />
+- **Total Repositories**: Visit [my GitHub profile](https://github.com/luoqianyi?tab=repositories)
+- **GitHub Profile**: [@luoqianyi](https://github.com/luoqianyi)
 
-</a>
+### 🌐 Connect with me
 
-<a href="https://github.com/luoqianyi" title="Go to Source">
-
-<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=luoqianyi&show_icons=true&theme=dark&cache_seconds=1800" />
-
-</a>
-
-</div>
-
-<br><br><br><br><br><br><br><br><br>
-
-<div align=center>
-
-<a href="https://github.com/luoqianyi">
-
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoqianyi&layout=compact&theme=dark&cache_seconds=1800" />
-
-</a>
+- [Personal Blog](https://luoqianyi.top)
+- [Gitee](https://gitee.com/luoqianyi)
+- [CSDN](https://blog.csdn.net/qq_45743005)
+- Email: luoqianyi0819@gmail.com
 
 </div>
 
-</p>
 <hr>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luoqianyi&theme=react-dark&hide_border=true">
-</div>
