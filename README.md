@@ -55,13 +55,13 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 
 <a href="https://github.com/luoqianyi/" title="Go to Source">
 
-<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.app/?user=luoqianyi&theme=dark" alt="luoqianyi" />
+<img align="left" width=390 src="https://streak-stats.demolab.com?user=luoqianyi&theme=dark" alt="luoqianyi" />
 
 </a>
 
 <a href="https://github.com/luoqianyi" title="Go to Source">
 
-<img align="right" width=390 src="https://github-readme-stats-git-main-anuragbishnois-projects.vercel.app/api?username=luoqianyi&show_icons=true&theme=dark" />
+<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=luoqianyi&show_icons=true&theme=dark&cache_seconds=1800" />
 
 </a>
 
@@ -73,7 +73,7 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 
 <a href="https://github.com/luoqianyi">
 
-<img width=325 align="center" src="https://github-readme-stats-git-main-anuragbishnois-projects.vercel.app/api/top-langs/?username=luoqianyi&hide=html,smarty,Roff,CSS,Tcl,SCSS&theme=dark" />
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoqianyi&layout=compact&theme=dark&cache_seconds=1800" />
 
 </a>
 
@@ -82,5 +82,5 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 </p>
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luoqianyi&theme=dark-dimmed">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luoqianyi&theme=react-dark&hide_border=true">
 </div>
