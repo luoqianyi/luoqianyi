@@ -47,6 +47,21 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
+<div align="center">
+
+<img alt="luoqianyi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=luoqianyi&show_icons=true&theme=radical&count_private=true" width="48%" />
+<img alt="luoqianyi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=luoqianyi&langs_count=8&layout=compact&theme=radical" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img alt="luoqianyi's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=luoqianyi&theme=radical&hide_border=false" />
+
+</div>
+
 <br>
 
 <div align="center">
@@ -56,16 +71,6 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=luoqianyi&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoqianyi&layout=compact&theme=radical" width="48%" alt="Top Languages" />
-
-</div>
-
-<br>
-
 <hr>
 
 </div>
