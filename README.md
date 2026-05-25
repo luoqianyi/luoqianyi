@@ -50,7 +50,7 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 <div align="center">
 
 <img alt="luoqianyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luoqianyi&show_icons=true&theme=buefy&count_private=true&bg_color=f0f8ff&border_color=add8e6&title_color=4169e1&text_color=191970&icon_color=4169e1" width="48%" />
-<img alt="luoqianyi's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=luoqianyi&theme=buefy&bg_color=f0f8ff&border_color=add8e6&title_color=4169e1&text_color=191970" width="48%" />
+<img alt="luoqianyi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoqianyi&langs_count=8&layout=compact&theme=buefy&bg_color=f0f8ff&border_color=add8e6&title_color=4169e1&text_color=191970" width="48%" />
 
 </div>
 
