@@ -49,8 +49,8 @@ or <a href="mailto:luoqianyi0819@foxmail.com"><b>email</b></a> me.
 
 <div align="center">
 
-<img alt="luoqianyi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=luoqianyi&show_icons=true&theme=buefy&count_private=true&bg_color=f0f8ff&border_color=add8e6&title_color=4169e1&text_color=191970" width="48%" />
-<img alt="luoqianyi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=luoqianyi&langs_count=8&layout=compact&theme=buefy&bg_color=f0f8ff&border_color=add8e6&title_color=4169e1&text_color=191970" width="48%" />
+<img alt="luoqianyi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=luoqianyi&show_icons=true&theme=buefy&count_private=true&bg_color=f0f8ff&border_color=add8e6&title_color=4169e1&text_color=191970&height=200" width="48%" />
+<img alt="luoqianyi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=luoqianyi&langs_count=6&layout=donut&theme=buefy&bg_color=f0f8ff&border_color=add8e6&title_color=4169e1&text_color=191970&height=200" width="48%" />
 
 </div>
 
